@@ -15,7 +15,7 @@ public class RestaurantMixt extends Restaurant implements Vegan, NonVegan{
     public void alimenteProaspete() {
 
     }
-gi
+
     @Override
     public void angajati() {
 
